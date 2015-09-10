@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PortableGit</id>
+    <version>2.5.1.01</version>
+    <authors>Lars Brinkhoff</authors>
+    <owners>Lars Brinkhoff</owners>
+    <licenseUrl>http://opensource.org/licenses/GPL-2.0</licenseUrl>
+    <projectUrl>http://git-scm.com/</projectUrl>
+    <iconUrl>https://git-scm.com/images/logo@2x.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Portable Git command line</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>git portable native command</tags>
+  </metadata>
+</package>
